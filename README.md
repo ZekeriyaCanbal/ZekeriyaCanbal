@@ -1,6 +1,5 @@
 ### Selamlar 👋 Ben [Zekeriya CANBAL](https://zekeriyacanbal.com.tr)
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://github.com/ZekeriyaCanbal/ZekeriyaCanbal/blob/main/zekademi-bilisi-logo-white.png" width="350" align='right'>
 
 <h3>👨🏻•💻 Hakkımda </h3>
 
@@ -12,7 +11,7 @@
 
 - ✍️ &nbsp; Hobilerim ve ilgi duydugum konular IT ve Yazılım ile ilgili herşey.
 
-<br>/
+<br/>
 <h3>🛠 Programlama Dilleri ve Tools</h3>
 
 - 💻 &nbsp; Windows | Linux |   
@@ -26,6 +25,8 @@
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | CorelDraw | Camtasia | Animated 
 
 <br/>
+<img src="https://github.com/ZekeriyaCanbal/ZekeriyaCanbal/blob/main/zekeriyacanbal.gif" width="350" align='right'>
+
 <h3>🛠 Ögrenmeye Başladıklarım</h3>
 
 - 🔧 &nbsp; Spring Boot | Spring Security | Advenced java | Flutter | Java FX
