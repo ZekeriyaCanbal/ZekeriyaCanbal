@@ -20,7 +20,7 @@
 
 - 🛢 &nbsp; MyAdmin | MySQL | MongoDB
 
-- 🔧 &nbsp; Git | JDBC | Hibernate | JUnit | Lambda | Maven | API | JSP | Java
+- 🔧 &nbsp; Git | JDBC | Hibernate | JUnit | Lambda | Maven | API | JSP | Java | Spring (Data JPA, Boot, MVC, Security) 
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | CorelDraw | Camtasia | Animated 
 
