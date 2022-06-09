@@ -16,11 +16,11 @@
 
 - 💻 &nbsp; Windows | Linux |   
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | WordPress | OpenCart
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | WordPress | OpenCart | React | ReactJS
 
-- 🛢 &nbsp; MyAdmin | MySQL | MongoDB
+- 🛢 &nbsp; MyAdmin | MySQL | MongoDB | Postgres
 
-- 🔧 &nbsp; Git | JDBC | Hibernate | JUnit | Lambda | Maven | API | JSP | Java | Spring (Data JPA, Boot, MVC, Security) 
+- 🔧 &nbsp; Git | JDBC | Hibernate | JUnit | Lambda | Maven | API | JSP | Java | Spring Boot | Spring MVC | Spring Data | JPA | Spring Security 
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | CorelDraw | Camtasia | Animated 
 
@@ -29,7 +29,7 @@
 
 <h3>🛠 Ögrenmeye Başladıklarım</h3>
 
-- 🔧 &nbsp; Spring Boot | Spring Security | Advenced java | Flutter | Java FX
+- 🔧 &nbsp; React Native
 
 <h3> Web Sitelerim </h3>
 
