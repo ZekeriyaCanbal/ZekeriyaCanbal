@@ -1,7 +1,7 @@
 ### Selamlar 👋 Ben [Zekeriya CANBAL](https://zekeriyacanbal.com.tr)
 <img src="https://github.com/ZekeriyaCanbal/ZekeriyaCanbal/blob/main/zekademi-bilisi-logo-white.png" width="350" align='right'>
 
-<h3>👨🏻•💻 Hakkımda </h3>
+<h3>👨🏻💻 Hakkımda </h3>
 
 - 🤔 &nbsp; Yeni bilişim teknolojileri araştırmak ve yazılım çözümleri geliştirmek.
 
