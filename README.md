@@ -29,11 +29,12 @@
 
 <h3>🛠 Ögrenmeye Başladıklarım</h3>
 
-- 🔧 &nbsp; React Native
+- 💻 &nbsp; LMS CMS | Unity | Oyun Tasarımı | 
 
-<h3> Web Sitelerim </h3>
+<h3> 🌐 Web Sitelerim </h3>
 
-- 🌐 [zekeriyacanbal.com.tr](https://zekeriyacanbal.com.tr) &nbsp; 🌐 [zekedemi.com](https://zekademi.com) &nbsp; 🌐 [uzmanogretici.com](https://www.uzmanogretici.com/) 
+- 🌐 [zekeriyacanbal.com.tr](https://zekeriyacanbal.com.tr) &nbsp; 🌐 [zekedemi.com](https://zekademi.com) &nbsp; 🌐 [uzmanogretici.com](https://www.uzmanogretici.com/)&nbsp; 
+- 🌐[zekademibilisim.com](https://zekademibilisim.com) &nbsp;  🌐 [zekademiegitim.com](https://zekademiegitim.com) &nbsp; 
 
 
 <details>
